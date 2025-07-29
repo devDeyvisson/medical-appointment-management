@@ -1,3 +1,3 @@
-let { searchMainMenuOptions } = require("./mainMenu");
+let { searchMainMenuOptions } = require("./src/menus/mainMenu");
 
 searchMainMenuOptions();

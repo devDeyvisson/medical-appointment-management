@@ -1,9 +1,9 @@
 let listDoctors = [];
-let listAllPatients = [];
+let listPatients = [];
 let listAppointment = [];
 
 module.exports = {
   doctors: listDoctors,
-  patients: listAllPatients,
+  patients: listPatients,
   appointments: listAppointment,
 };
